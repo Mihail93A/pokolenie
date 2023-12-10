@@ -1,5 +1,5 @@
-# Дипломный проект по автоматическому UI тестированию отправки почты в Gmail
-### <a target="_blank" href="https://mail.google.com/mail">Gmail</a>
+# Демонстрация автоматизированного тестирования сайта Mozabrick.ru
+### <a target="_blank" href="https://Mozabrick.ru">Mozabrick</a>
 
 ## :pushpin: Содержание:
 
